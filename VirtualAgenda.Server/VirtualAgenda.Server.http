@@ -1,0 +1,6 @@
+@VirtualAgenda.Server_HostAddress = http://localhost:5192
+
+GET {{VirtualAgenda.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

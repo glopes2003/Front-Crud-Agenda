@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<VirtualAgenda.Server.Models.Entities.AgendaCrud>
+
+<h1>Informations</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Phone Number</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var info in Model)
+		{
+			<tr>
+				<td>@info.Name</td>
+				<td>@info.Email</td>
+				<td>@info.PhoneNumber</td>
+				<td>
+					<a class="btn btn-primary" asp-controller="Agenda" asp-action="Edit" asp-route-id="@info.Id">Edit</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+	
+</table>
