@@ -18,6 +18,7 @@
      <img align="center" alt="VisualStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="60px" height="60px"/>
      <img align="center" alt="Vue.js" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="60px" height="60px"/>
      <img align="center" alt=".NET" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="60px" height="60px"/>
+     <img align="center" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="60px" height="60px"/>
 </div>
 
 <h4>Extras:</h4>
