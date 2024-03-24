@@ -24,6 +24,8 @@
 <h4>Extras:</h4>
  - Entity Framework: conjunto de bibliotecas para acesso à dados que facilita 
  a execução de operações CRUD em bancos de dados.
+ - DockerFile: conjunto de instruções que diz ao computador exatamente como construir um
+ container, um "repositório" que contém tudo o que um programa precisa para funcionar.
 
 ><h3> Artefatos de Designer: </h3>
 
@@ -43,3 +45,5 @@
 ><h3>Front-end desenvolvido para as páginas:</h3>
 <img src="https://i.imgur.com/S1CbcGe.gif" title="source: imgur.com" width="800px"  height="380px" />
 
+><h3>Container da aplicação</h3>
+<img src="https://i.imgur.com/0m4NVGI.png" title="source: imgur.com" width="800px"  height="250px" />
