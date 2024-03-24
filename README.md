@@ -24,6 +24,7 @@
 <h4>Extras:</h4>
  - Entity Framework: conjunto de bibliotecas para acesso à dados que facilita 
  a execução de operações CRUD em bancos de dados.
+ <br>
  - DockerFile: conjunto de instruções que diz ao computador exatamente como construir um
  container, um "repositório" que contém tudo o que um programa precisa para funcionar.
 
