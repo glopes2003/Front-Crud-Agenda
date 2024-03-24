@@ -37,4 +37,5 @@
     3. Controller: Fluxo de solicitações (conexão entre o model e o view)
   
 ><h3>Front-end desenvolvido para as páginas:</h3>
+<img src="https://i.imgur.com/S1CbcGe.gif" title="source: imgur.com" width="800px"  height="380px" />
 
