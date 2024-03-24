@@ -19,7 +19,10 @@
      <img align="center" alt="Vue.js" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="60px" height="60px"/>
      <img align="center" alt=".NET" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="60px" height="60px"/>
 </div>
-<br>
+
+<h4>Extras:</h4>
+ - Entity Framework: conjunto de bibliotecas para acesso à dados que facilita 
+ a execução de operações CRUD em bancos de dados.
 
 ><h3> Artefatos de Designer: </h3>
 
